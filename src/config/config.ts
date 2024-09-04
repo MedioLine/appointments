@@ -1,5 +1,3 @@
-// src/config/config.ts
-
 interface Config {
     mongoUri: string;
     jwtSecret: string;
